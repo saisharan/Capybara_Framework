@@ -1,0 +1,4 @@
+[0507/170114:INFO:chromedriver_server.cc(76)] Handling request: /session {"desiredCapabilities":{"browserName":"chrome","version":"","platform":"ANY","javascriptEnabled":true,"cssSelectorsEnabled":true,"takesScreenshot":false,"nativeEvents":false,"rotatable":false,"chromeOptions":{"detach":true},"chrome.detach":true}}
+[0507/170114:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"","status":13,"value":{"message":"unknown error: unrecognized chrome option: detach\n  (Driver info: chromedriver=0.8,platform=Windows NT 5.1 SP3 x86)"}}
+[0507/170154:INFO:chromedriver_server.cc(76)] Handling request: /shutdown 
+[0507/170154:INFO:chromedriver_server.cc(81)] Done handling request: 200 {"sessionId":"","status":0,"value":null}

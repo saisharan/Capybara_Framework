@@ -1,0 +1,14 @@
+Capybara Tool Support in Helios
+
+Steps:
+1.We have to place the feature(*inside the technolofy root folder) folder inside the functiona test folder for Corresponding application
+
+EX: open the technology specfic folder and then copy the feature&Resource 
+need to place copied file inside Functional folder ex:  /test/functional/feature&Resource
+
+2.Applicable for All Web application
+
+3.Run command in cmd
+ 
+ cucumber -f junit -o test-reports -f html -o test-reports/cuke.html
+ 

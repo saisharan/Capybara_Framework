@@ -1,0 +1,15 @@
+Capybara Tool Support in Helios
+
+Steps:
+1.We have to place the feature folder inside the functiona test folder for Corresponding application
+
+EX: need to place the Feature file in php tech root: /test/functional/feature
+
+2.Applicable for All Web application
+
+3.Available scripts for for PhpBlog,none,JqueryMobileWidget Eshop/None and MultichannelJqueryMobile Widget Eshop/None
+
+4.Run command
+ 
+ cucumber -f junit -o test-reports -f html -o test-reports/cuke.html
+ 
